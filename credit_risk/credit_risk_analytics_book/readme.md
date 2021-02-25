@@ -1,0 +1,1 @@
+Ce dossier contient les données sur le livre CREDIT RISK ANALYTICS MEASUREMENT TECHNIQUES,APPLICATIONS, and EXAMPLES in SAS and R de BART BAESENS
